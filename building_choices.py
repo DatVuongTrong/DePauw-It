@@ -1,0 +1,23 @@
+building_choices = {
+  'a': 'Administration Building',
+  'b': 'Peeler Art Center',
+  'c': 'Julian Science and Mathermatics Center',
+  'd': 'Lily Physical Eduacation and Recreation Center',
+  'e': 'Green Center for the Performing Arts',
+  'f': 'Pulliam Center for Contemporary Media',
+  'g': 'Memorial Student Union',
+  'h': 'Hoover Hall',
+  'i': 'Mason Hall',
+  'j': 'Rector Village',
+  'k': 'Lucy Rowland Hall',
+  'l': 'University Service Center',
+  'm': 'Blackstock',
+  'n': 'Reavis Stadium',
+  'o': 'Bishop Roberts Hall',
+  'p': 'Vermon Jordan Hall',
+  'q': 'Longden Hall',
+  'r': 'Roy O. West Library',
+  's': 'Harrison Hall',
+  't': 'East College',
+  'u': 'Bloomington Street Hall'
+}

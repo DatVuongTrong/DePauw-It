@@ -1,0 +1,23 @@
+dp_building = {
+  'Administration Building': set(['Seminary St', 'Locust St']),
+  'Peeler Art Center': set(['Hanna St', 'Indiana St', 'Jackson St']),
+  'Julian Science and Mathermatics Center': set(['Hanna St', 'Indiana St']),
+  'Lily Physical Eduacation and Recreation Center': set(['Indiana St', 'Olive St']),
+  'Green Center for the Performing Arts': set(['Olive St', 'Locust St']),
+  'Pulliam Center for Contemporary Media': set(['Central Ave', 'Elm St', 'Locust St']),
+  'Memorial Student Union': set(['Locust St', 'Hanna St']),
+  'Hoover Hall': set(['Hanna St']),
+  'Mason Hall': set(['Locust St', 'Anderson St']),
+  'Rector Village': set(['Hanna St', 'Anderson St']),
+  'Lucy Rowland Hall': set(['Locust St', 'Hanna St']),
+  'University Service Center': set(['Madison St', 'Hill St', 'Jackson St']),
+  'Blackstock': set(['Madison St', 'Hill St', 'Hanna St']),
+  'Reavis Stadium': set(['Hanna St', 'Jackson St']),
+  'Bishop Roberts Hall': set(['Olive St', 'College Ave']),
+  'Vermon Jordan Hall': set(['Olive St', 'Locust St']),
+  'Longden Hall': set(['College Ave']),
+  'Roy O. West Library': set(['Indiana St']),
+  'Harrison Hall': set(['Larrabee St']),
+  'East College': set(['Locust St', 'Simpson St']),
+  'Bloomington Street Hall': set(['Bloomington St', 'Anderson St'])
+}
